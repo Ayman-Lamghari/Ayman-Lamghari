@@ -1,6 +1,6 @@
 ### Hi there I'm Ayman👋
 # 💫 About Me:
-i'm a full stack developer passionate about coding and problem solving so creative i'm currently focusing on making websites for several companies really skillful just here to share happiness and joy <br> 
+Welcome to my digital playground! I'm a <strong>full-stack developer</strong> fueled by boundless imagination and a drive to make a difference. With <strong>lines of code</stong> as my paintbrush, I transform ideas into living, breathing creations. <br> 
 
 
 ## 🌐 Socials:
