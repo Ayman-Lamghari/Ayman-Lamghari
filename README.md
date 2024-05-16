@@ -1,4 +1,4 @@
-### Hi there I'm Ayman👋
+### 👋Hi there I'm Ayman
 # 💫 About Me:
 Welcome to my digital playground! I'm a <strong>full-stack developer</strong> fueled by boundless imagination and a drive to make a difference. With <strong>lines of code</stong> as my paintbrush, I transform ideas into living, breathing creations. <br> 
 
